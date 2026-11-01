@@ -1,0 +1,9 @@
+﻿# Game save files
+**/bloom_save*.json
+
+# Local backup code
+main copy.py
+
+# Python temporary files
+__pycache__/
+*.pyc
